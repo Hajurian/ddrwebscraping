@@ -17,6 +17,7 @@ async function search() {
 
         const stuff = await page.$$eval('#data_tbl .data', songs => songs.map((song) => ({
             version: "",
+            image: song.querySelector('.jk img').src,
             title: song.querySelector('.music_tit').innerText,
             artist: song.querySelector('.artist_nam').innerText,
             beginner: song.querySelector('td.difficult.be').innerText, //get difficulties
@@ -31,7 +32,7 @@ async function search() {
         })
         data.push(stuff);
     }
-    fs.writeFile('output.json', JSON.stringify(data), (err) => {
+    fs.writeFile('songdata.json', JSON.stringify(data), (err) => {
         if (err) throw err;
         console.log("File saved");
     })
