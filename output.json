@@ -1,0 +1,6700 @@
+[
+    [
+        {
+            "version": "DDR 1st",
+            "title": "MAKE IT BETTER",
+            "artist": "mitsu-O!",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "9",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 1st",
+            "title": "PARANOiA",
+            "artist": "180",
+            "beginner": "4",
+            "basic": "8",
+            "difficult": "9",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 1st",
+            "title": "TRIP MACHINE",
+            "artist": "DE-SIRE",
+            "beginner": "3",
+            "basic": "8",
+            "difficult": "9",
+            "expert": "10",
+            "challenge": "-"
+        }
+    ],
+    [
+        {
+            "version": "DDR 2ndMIX",
+            "title": "AM-3P",
+            "artist": "KTz",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 2ndMIX",
+            "title": "BRILLIANT 2U",
+            "artist": "NAOKI",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "6",
+            "expert": "10",
+            "challenge": "10"
+        },
+        {
+            "version": "DDR 2ndMIX",
+            "title": "BRILLIANT 2U(Orchestra Groove)",
+            "artist": "NAOKI",
+            "beginner": "4",
+            "basic": "6",
+            "difficult": "8",
+            "expert": "9",
+            "challenge": "12"
+        },
+        {
+            "version": "DDR 2ndMIX",
+            "title": "e-motion",
+            "artist": "e.o.s",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "6",
+            "expert": "8",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 2ndMIX",
+            "title": "GENOM SCREAMS",
+            "artist": "L.E.D.LIGHT",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 2ndMIX",
+            "title": "KEEP ON MOVIN'",
+            "artist": "N.M.R",
+            "beginner": "4",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "9",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 2ndMIX",
+            "title": "MAKE IT BETTER (So-REAL Mix)",
+            "artist": "mitsu-O!SUMMER",
+            "beginner": "2",
+            "basic": "7",
+            "difficult": "8",
+            "expert": "10",
+            "challenge": "12"
+        },
+        {
+            "version": "DDR 2ndMIX",
+            "title": "PARANOiA KCET ～clean mix～",
+            "artist": "2MB",
+            "beginner": "4",
+            "basic": "8",
+            "difficult": "9",
+            "expert": "11",
+            "challenge": "15"
+        },
+        {
+            "version": "DDR 2ndMIX",
+            "title": "PARANOiA MAX～DIRTY MIX～",
+            "artist": "190",
+            "beginner": "5",
+            "basic": "9",
+            "difficult": "10",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 2ndMIX",
+            "title": "PUT YOUR FAITH IN ME",
+            "artist": "UZI-LAY",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "6",
+            "expert": "9",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 2ndMIX",
+            "title": "PUT YOUR FAITH IN ME (Jazzy Groove)",
+            "artist": "UZI-LAY",
+            "beginner": "2",
+            "basic": "6",
+            "difficult": "7",
+            "expert": "9",
+            "challenge": "11"
+        },
+        {
+            "version": "DDR 2ndMIX",
+            "title": "SP-TRIP MACHINE～JUNGLE MIX～",
+            "artist": "DE-SIRE",
+            "beginner": "4",
+            "basic": "8",
+            "difficult": "9",
+            "expert": "10",
+            "challenge": "-"
+        }
+    ],
+    [
+        {
+            "version": "DDR 3rdMIX",
+            "title": "AFRONOVA",
+            "artist": "RE-VENGE",
+            "beginner": "5",
+            "basic": "7",
+            "difficult": "9",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 3rdMIX",
+            "title": "AFTER THE GAME OF LOVE",
+            "artist": "NPD3",
+            "beginner": "1",
+            "basic": "2",
+            "difficult": "6",
+            "expert": "8",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 3rdMIX",
+            "title": "CUTIE CHASER",
+            "artist": "CLUB SPICE",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 3rdMIX",
+            "title": "DEAD END",
+            "artist": "N & S",
+            "beginner": "4",
+            "basic": "7",
+            "difficult": "10",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 3rdMIX",
+            "title": "DROP THE BOMB",
+            "artist": "Scotty D.",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 3rdMIX",
+            "title": "DYNAMITE RAVE",
+            "artist": "NAOKI",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "10",
+            "expert": "12",
+            "challenge": "12"
+        },
+        {
+            "version": "DDR 3rdMIX",
+            "title": "GRADIUSIC CYBER ～AMD G5 MIX～",
+            "artist": "BIG-O feat. TAKA",
+            "beginner": "3",
+            "basic": "8",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 3rdMIX",
+            "title": "La Señorita",
+            "artist": "CAPTAIN.T",
+            "beginner": "4",
+            "basic": "6",
+            "difficult": "8",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 3rdMIX",
+            "title": "La Señorita Virtual",
+            "artist": "2MB",
+            "beginner": "4",
+            "basic": "8",
+            "difficult": "10",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 3rdMIX",
+            "title": "LOVE THIS FEELIN'",
+            "artist": "Chang ma",
+            "beginner": "4",
+            "basic": "9",
+            "difficult": "10",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 3rdMIX",
+            "title": "PARANOiA Rebirth",
+            "artist": "190'",
+            "beginner": "4",
+            "basic": "8",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 3rdMIX",
+            "title": "Silent Hill",
+            "artist": "THOMAS HOWARD",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "9",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 3rdMIX",
+            "title": "think ya better D",
+            "artist": "sAmi",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "6",
+            "expert": "9",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 3rdMIX",
+            "title": "TRIP MACHINE～luv mix～",
+            "artist": "2MB",
+            "beginner": "3",
+            "basic": "9",
+            "difficult": "10",
+            "expert": "12",
+            "challenge": "-"
+        }
+    ],
+    [
+        {
+            "version": "DDR 4thMIX",
+            "title": "BABY BABY GIMME YOUR LOVE",
+            "artist": "DIVAS",
+            "beginner": "1",
+            "basic": "2",
+            "difficult": "4",
+            "expert": "7",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 4thMIX",
+            "title": "BURNIN' THE FLOOR",
+            "artist": "NAOKI",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 4thMIX",
+            "title": "B4U",
+            "artist": "NAOKI",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 4thMIX",
+            "title": "CAN'T STOP FALLIN' IN LOVE",
+            "artist": "NAOKI",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "6",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 4thMIX",
+            "title": "CELEBRATE NITE",
+            "artist": "N.M.R",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 4thMIX",
+            "title": "Don't Stop!～AMD 2nd MIX～",
+            "artist": "Dr.VIBE feat. JP Miles",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "6",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 4thMIX",
+            "title": "DROP OUT",
+            "artist": "NW260",
+            "beginner": "4",
+            "basic": "8",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 4thMIX",
+            "title": "era (nostalmix)",
+            "artist": "TaQ",
+            "beginner": "4",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 4thMIX",
+            "title": "HIGHER",
+            "artist": "NM feat. SUNNY",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "9",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 4thMIX",
+            "title": "Holic",
+            "artist": "TaQ",
+            "beginner": "4",
+            "basic": "7",
+            "difficult": "9",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 4thMIX",
+            "title": "HYSTERIA",
+            "artist": "NAOKI 190",
+            "beginner": "5",
+            "basic": "6",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 4thMIX",
+            "title": "LEADING CYBER",
+            "artist": "dj TAKA",
+            "beginner": "3",
+            "basic": "8",
+            "difficult": "9",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 4thMIX",
+            "title": "LOVE AGAIN TONIGHT～For Melissa MIX～",
+            "artist": "NAOKI feat. PAULA TERRY",
+            "beginner": "4",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 4thMIX",
+            "title": "MY SUMMER LOVE",
+            "artist": "MITSU-O! with GEILA",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 4thMIX",
+            "title": "ORION.78(AMeuro-MIX)",
+            "artist": "RE-VENGE",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 4thMIX",
+            "title": "PARANOIA EVOLUTION",
+            "artist": "200",
+            "beginner": "5",
+            "basic": "9",
+            "difficult": "10",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 4thMIX",
+            "title": "SEXY PLANET",
+            "artist": "Crystal Aliens",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 4thMIX",
+            "title": "SUPER STAR",
+            "artist": "D.J.RICH feat. TAILBROS.",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "8",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 4thMIX",
+            "title": "TRIP MACHINE CLIMAX",
+            "artist": "DE-SIRE",
+            "beginner": "5",
+            "basic": "7",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 4thMIX",
+            "title": "WILD RUSH",
+            "artist": "FACTOR-X",
+            "beginner": "5",
+            "basic": "6",
+            "difficult": "7",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 4thMIX",
+            "title": ".59",
+            "artist": "dj TAKA",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        }
+    ],
+    [
+        {
+            "version": "DDR 5thMIX",
+            "title": "サナ・モレッテ・ネ・エンテ",
+            "artist": "Togo Project feat. Sana",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 5thMIX",
+            "title": "ABSOLUTE",
+            "artist": "dj TAKA",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 5thMIX",
+            "title": "Abyss",
+            "artist": "dj TAKA",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 5thMIX",
+            "title": "AFRONOVA PRIMEVAL",
+            "artist": "8 bit",
+            "beginner": "4",
+            "basic": "7",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 5thMIX",
+            "title": "BROKEN MY HEART",
+            "artist": "NAOKI feat. PAULA TERRY",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 5thMIX",
+            "title": "CAN'T STOP FALLIN' IN LOVE ～SPEED MIX～",
+            "artist": "NAOKI",
+            "beginner": "4",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 5thMIX",
+            "title": "DXY!",
+            "artist": "TaQ",
+            "beginner": "5",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 5thMIX",
+            "title": "ECSTASY",
+            "artist": "d-complex",
+            "beginner": "4",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 5thMIX",
+            "title": "Electro Tuned ( the SubS Mix )",
+            "artist": "TaQ",
+            "beginner": "4",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 5thMIX",
+            "title": "Healing Vision",
+            "artist": "DE-SIRE",
+            "beginner": "4",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 5thMIX",
+            "title": "INSERTiON",
+            "artist": "NAOKI underground",
+            "beginner": "4",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 5thMIX",
+            "title": "PARANOiA ETERNAL",
+            "artist": "STM 200",
+            "beginner": "4",
+            "basic": "8",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR 5thMIX",
+            "title": "STILL IN MY HEART",
+            "artist": "NAOKI",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "8",
+            "expert": "10",
+            "challenge": "-"
+        }
+    ],
+    [
+        {
+            "version": "DDRMAX",
+            "title": "CANDY☆",
+            "artist": "Luv UNLIMITED",
+            "beginner": "4",
+            "basic": "6",
+            "difficult": "7",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDRMAX",
+            "title": "exotic ethnic",
+            "artist": "RevenG",
+            "beginner": "4",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DDRMAX",
+            "title": "Healing Vision ～Angelic mix～",
+            "artist": "2MB",
+            "beginner": "5",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DDRMAX",
+            "title": "Let the beat hit em!(CLASSIC R&B STYLE)",
+            "artist": "Stone Bros.",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "7",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDRMAX",
+            "title": "MAX 300",
+            "artist": "Ω",
+            "beginner": "5",
+            "basic": "9",
+            "difficult": "12",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DDRMAX",
+            "title": "ORION.78～civilization mix～",
+            "artist": "2MB",
+            "beginner": "4",
+            "basic": "9",
+            "difficult": "12",
+            "expert": "13",
+            "challenge": "-"
+        }
+    ],
+    [
+        {
+            "version": "DDRMAX2",
+            "title": "革命",
+            "artist": "dj TAKA with NAOKI",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "11"
+        },
+        {
+            "version": "DDRMAX2",
+            "title": "BRE∀K DOWN！",
+            "artist": "BeForU",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDRMAX2",
+            "title": "BURNING HEAT！（3 Option MIX）",
+            "artist": "Mr.T with Motoaki. F",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "8",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DDRMAX2",
+            "title": "CANDY♡",
+            "artist": "小坂りゆ",
+            "beginner": "4",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDRMAX2",
+            "title": "DESTINY",
+            "artist": "NAOKI feat. PAULA TERRY",
+            "beginner": "3",
+            "basic": "3",
+            "difficult": "7",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDRMAX2",
+            "title": "DIVE TO THE NIGHT",
+            "artist": "小坂りゆ",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDRMAX2",
+            "title": "D2R",
+            "artist": "NAOKI",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDRMAX2",
+            "title": "i feel ...",
+            "artist": "AKIRA YAMAOKA",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "8",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDRMAX2",
+            "title": "MAXX UNLIMITED",
+            "artist": "Z",
+            "beginner": "5",
+            "basic": "10",
+            "difficult": "13",
+            "expert": "16",
+            "challenge": "-"
+        },
+        {
+            "version": "DDRMAX2",
+            "title": "rain of sorrow",
+            "artist": "NM feat. EBONY FAY",
+            "beginner": "3",
+            "basic": "3",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDRMAX2",
+            "title": "Secret Rendez-vous",
+            "artist": "DIVAS",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDRMAX2",
+            "title": "Sweet Sweet ♥ Magic",
+            "artist": "jun",
+            "beginner": "4",
+            "basic": "5",
+            "difficult": "9",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DDRMAX2",
+            "title": "TSUGARU",
+            "artist": "RevenG vs DE-SIRE",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        }
+    ],
+    [
+        {
+            "version": "DDR EXTREME",
+            "title": "蒼い衝動 ～for EXTREME～",
+            "artist": "NAOKI feat.YUKI",
+            "beginner": "2",
+            "basic": "4",
+            "difficult": "6",
+            "expert": "9",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "桜",
+            "artist": "Reven-G",
+            "beginner": "5",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "13",
+            "challenge": "11"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "大見解",
+            "artist": "Des-ROW feat. TSUBOI for ALPHA",
+            "beginner": "4",
+            "basic": "4",
+            "difficult": "8",
+            "expert": "12",
+            "challenge": "13"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "三毛猫ロック",
+            "artist": "亜熱帯マジ-SKA爆弾",
+            "beginner": "4",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "A",
+            "artist": "D.J.Amuro",
+            "beginner": "4",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "12"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "Across the nightmare",
+            "artist": "Jimmy Weckl",
+            "beginner": "7",
+            "basic": "8",
+            "difficult": "10",
+            "expert": "12",
+            "challenge": "13"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "air",
+            "artist": "DJ SIMON",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "AM-3P -303 BASS MIX-",
+            "artist": "KTz(remixed by U1)",
+            "beginner": "4",
+            "basic": "4",
+            "difficult": "9",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "bag",
+            "artist": "RevenG",
+            "beginner": "2",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "13",
+            "challenge": "13"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "BE LOVIN",
+            "artist": "D-Crew",
+            "beginner": "4",
+            "basic": "5",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "Colors ～for EXTREME～",
+            "artist": "dj TAKA",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "9",
+            "challenge": "13"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "CUTIE CHASER(MORNING MIX)",
+            "artist": "CLUB SPICE",
+            "beginner": "3",
+            "basic": "3",
+            "difficult": "4",
+            "expert": "9",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "Dance Dance Revolution",
+            "artist": "DDR ALL STARS",
+            "beginner": "5",
+            "basic": "6",
+            "difficult": "8",
+            "expert": "12",
+            "challenge": "12"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "Destiny lovers",
+            "artist": "くにたけ みゆき",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "DROP THE BOMB(SyS.F. Mix)",
+            "artist": "Scotty D.",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "Frozen Ray ～for EXTREME～",
+            "artist": "dj TAKA",
+            "beginner": "4",
+            "basic": "5",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "Gamelan de Couple",
+            "artist": "TOMOSUKE",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "GRADUATION ～それぞれの明日～",
+            "artist": "BeForU",
+            "beginner": "2",
+            "basic": "3",
+            "difficult": "7",
+            "expert": "9",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "Happy Wedding",
+            "artist": "ASKA",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "6",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "Heaven is a '57 metallic gray ～gimmix～",
+            "artist": "Hiro feat. Sweet little 30's",
+            "beginner": "4",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "HYPER EUROBEAT",
+            "artist": "NAOKI feat. DDR ALL STARS",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "6",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "I'm gonna get you!",
+            "artist": "Kelly Cosmo",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "9",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "jane jana",
+            "artist": "T.E.M.P.O. feat.Mohammed & Emi",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "JET WORLD",
+            "artist": "Mutsuhiko Izumi",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "KISS KISS KISS",
+            "artist": "NAOKI feat. SHANTI",
+            "beginner": "4",
+            "basic": "5",
+            "difficult": "6",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "Kiss me all night long",
+            "artist": "NAOKI J-STYLE feat.MIU",
+            "beginner": "3",
+            "basic": "3",
+            "difficult": "6",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "LA BAMBA",
+            "artist": "メキシコ民謡",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "L'amour et la liberté(DDR Ver.)",
+            "artist": "NAOKI underground",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "♥Love²シュガ→♥",
+            "artist": "dj TAKA feat.のりあ",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "6",
+            "expert": "8",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "LOVE♥SHINE",
+            "artist": "小坂りゆ",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "6",
+            "expert": "9",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "Miracle Moon ～L.E.D.LIGHT STYLE MIX～",
+            "artist": "Togo Project feat. Sana",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "6",
+            "expert": "9",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "PARANOIA survivor",
+            "artist": "270",
+            "beginner": "4",
+            "basic": "9",
+            "difficult": "11",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "PARANOIA survivor MAX",
+            "artist": "290",
+            "beginner": "5",
+            "basic": "9",
+            "difficult": "11",
+            "expert": "15",
+            "challenge": "16"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "Pink Rose",
+            "artist": "Kiyommy+Seiya",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "6",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "SO IN LOVE",
+            "artist": "Caramel.S",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "9",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "STAY (Organic house Version)",
+            "artist": "emi",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "9",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "stoic (EXTREME version)",
+            "artist": "TaQ",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "9",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "sync (EXTREME version)",
+            "artist": "OutPhase",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "9",
+            "challenge": "12"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "TEARS",
+            "artist": "NAOKI underground feat.EK",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "8",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "The Least 100sec",
+            "artist": "Hirofumi Sasaki",
+            "beginner": "5",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "The legend of MAX",
+            "artist": "ZZ",
+            "beginner": "7",
+            "basic": "8",
+            "difficult": "13",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "TRIP MACHINE survivor",
+            "artist": "DE-SIRE",
+            "beginner": "4",
+            "basic": "5",
+            "difficult": "11",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "Twin Bee -Generation X-",
+            "artist": "FinalOffset",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "V ～for EXTREME～",
+            "artist": "TAKA",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "12",
+            "challenge": "13"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "VANITY ANGEL",
+            "artist": "FIXX",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "xenon",
+            "artist": "Mr.T",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "1998",
+            "artist": "NAOKI",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "6",
+            "expert": "9",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR EXTREME",
+            "title": "321STARS",
+            "artist": "DJ SIMON",
+            "beginner": "4",
+            "basic": "5",
+            "difficult": "9",
+            "expert": "11",
+            "challenge": "-"
+        }
+    ],
+    [
+        {
+            "version": "DDR SuperNOVA",
+            "title": "怒れる大きな白い馬",
+            "artist": "Morning Blue Dragon",
+            "beginner": "4",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "カゲロウ",
+            "artist": "Des-ROW・組スペシアルr",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "9",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "月光蝶",
+            "artist": "あさき",
+            "beginner": "4",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "この子の七つのお祝いに",
+            "artist": "あさき",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "10",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "男々道",
+            "artist": "Des-ROW・組",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "チカラ",
+            "artist": "BeForU",
+            "beginner": "4",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "虹色",
+            "artist": "DJ YOSHITAKA feat G.S.C license",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "13"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "華爛漫 -Flowers-",
+            "artist": "ＴЁЯＲＡ",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "ヒマワリ",
+            "artist": "RIYU from BeForU",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "夢幻ノ光",
+            "artist": "ＴЁЯＲＡ",
+            "beginner": "4",
+            "basic": "4",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "AA",
+            "artist": "D.J.Amuro",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "9",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "A Stupid Barber",
+            "artist": "Sho-T",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "8",
+            "expert": "9",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "Bad Routine",
+            "artist": "D.J. Spugna",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "9",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "Baile Le Samba",
+            "artist": "Big Idea",
+            "beginner": "1",
+            "basic": "3",
+            "difficult": "10",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "BALLAD FOR YOU～想いの雨～",
+            "artist": "NM feat. Thomas Howard",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "8",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "Brazilian Anthem",
+            "artist": "Berimbau '66",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "cachaca",
+            "artist": "Mokky de Yah Yah's",
+            "beginner": "1",
+            "basic": "3",
+            "difficult": "7",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "Can Be Real",
+            "artist": "Vision F",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "6",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "CAN'T STOP FALLIN' IN LOVE -super euro version-",
+            "artist": "NAOKI with Y&Co.",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "8",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "CENTAUR",
+            "artist": "Jimmy Weckl",
+            "beginner": "4",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "CHAOS",
+            "artist": "DE-SIRE retunes",
+            "beginner": "6",
+            "basic": "8",
+            "difficult": "12",
+            "expert": "14",
+            "challenge": "16"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "CURUS",
+            "artist": "D-crew",
+            "beginner": "2",
+            "basic": "3",
+            "difficult": "7",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "DoLL",
+            "artist": "ＴЁЯＲＡ",
+            "beginner": "4",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "12",
+            "challenge": "13"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "Dragon Blade",
+            "artist": "Kozo Nakamura",
+            "beginner": "5",
+            "basic": "9",
+            "difficult": "10",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "Fascination ～eternal love mix～",
+            "artist": "2MB",
+            "beginner": "9",
+            "basic": "11",
+            "difficult": "13",
+            "expert": "16",
+            "challenge": "18"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "Fascination MAXX",
+            "artist": "100-200-400",
+            "beginner": "6",
+            "basic": "11",
+            "difficult": "13",
+            "expert": "17",
+            "challenge": "18"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "Flow",
+            "artist": "Scotty D. revisits U1",
+            "beginner": "4",
+            "basic": "5",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "Flow (True Style)",
+            "artist": "Scotty D. revisits U1",
+            "beginner": "4",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "13"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "Fly away",
+            "artist": "ChiyoTia",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "Forever Sunshine",
+            "artist": "Chel Y.",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "8",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "Freedom",
+            "artist": "BeForU",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "Funk Boogie",
+            "artist": "Funk Kid feat. KOOL BOYS",
+            "beginner": "4",
+            "basic": "5",
+            "difficult": "4",
+            "expert": "8",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "GORGEOUS 2012",
+            "artist": "THE SURRENDERS",
+            "beginner": "4",
+            "basic": "3",
+            "difficult": "8",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "HAPPY☆ANGEL",
+            "artist": "jun with TAHIRIH",
+            "beginner": "4",
+            "basic": "4",
+            "difficult": "8",
+            "expert": "12",
+            "challenge": "16"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "Healing-D-Vision",
+            "artist": "DE-STRAD",
+            "beginner": "6",
+            "basic": "9",
+            "difficult": "12",
+            "expert": "14",
+            "challenge": "18"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "iFUTURELIST(DDR VERSION)",
+            "artist": "AKIRA YAMAOKA",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "12",
+            "challenge": "13"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "I Need You",
+            "artist": "Supa Fova feat. Jenny F.",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "6",
+            "expert": "8",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "INNOCENCE OF SILENCE",
+            "artist": "nc ft NRG Factory",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "10",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "INSIDE YOUR HEART",
+            "artist": "AKIRA YAMAOKA",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "6",
+            "expert": "9",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "Jam & Marmalade",
+            "artist": "FinalOffset",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "KEEP ON MOVIN' ～DMX MIX～",
+            "artist": "N.M.R-typeG",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "La Bamba",
+            "artist": "LH MUSIC CREATION",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "LOGICAL DASH",
+            "artist": "DJ TAKA",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "LOVE IS ORANGE",
+            "artist": "Orange Lounge",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "9",
+            "challenge": "11"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "Make A Difference",
+            "artist": "Lala Moore with CoCoRo*Co",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "MARIA(I believe...)",
+            "artist": "NAOKI feat. PAULA TERRY",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "MAXIMIZER",
+            "artist": "CLI-MAX S.",
+            "beginner": "5",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "MAX 300 (Super-Max-Me Mix)",
+            "artist": "Jondi & Spesh",
+            "beginner": "6",
+            "basic": "10",
+            "difficult": "13",
+            "expert": "15",
+            "challenge": "16"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "MIDNIGHT SPECIAL",
+            "artist": "Love machineguns",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "9",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA",
+            "title": "Mind Parasite",
+            "artist": "TOMOSUKE",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "9",
+            "expert": "13",
+            "challenge": "-"
+        }
+    ],
+    [
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "Arrabbiata",
+            "artist": "Reven-G改",
+            "beginner": "5",
+            "basic": "11",
+            "difficult": "13",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "A thing called LOVE",
+            "artist": "D-crew 2 US",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "Blind Justice ～Torn souls, Hurt Faiths ～",
+            "artist": "Zektbach",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "Bloody Tears(IIDX EDITION)",
+            "artist": "DJ YOSHITAKA",
+            "beginner": "4",
+            "basic": "5",
+            "difficult": "6",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "CaptivAte～誓い～",
+            "artist": "DJ YOSHITAKA feat.A/I",
+            "beginner": "4",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "dream of love",
+            "artist": "Kaori Nishina",
+            "beginner": "3",
+            "basic": "3",
+            "difficult": "6",
+            "expert": "8",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "Electrified",
+            "artist": "SySF.",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "6",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "Every Day, Every Night(NM STYLE)",
+            "artist": "LEA DROP feat. Ant Johnston",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "6",
+            "expert": "9",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "Feelings Won't Fade(Extend Trance Mix)",
+            "artist": "SySF.",
+            "beginner": "4",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "FIRE",
+            "artist": "泉 陸奥彦",
+            "beginner": "4",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "Flow (Jammin' Ragga Mix)",
+            "artist": "Scotty D. revisits U1",
+            "beginner": "4",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "Fly away -mix del matador-",
+            "artist": "Shawn the Horny Master feat. ChiyoTia",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "9",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "Freeway Shuffle",
+            "artist": "dj TAKA",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "8",
+            "expert": "10",
+            "challenge": "12"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "GIRIGILI門前雀羅",
+            "artist": "Cheki-ROWS",
+            "beginner": "4",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "L'amour et la liberté(Darwin & DJ Silver remix)",
+            "artist": "NAOKI in the MERCURE",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "MARS WAR 3",
+            "artist": "JET GIRL SPIN",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "MOONSTER",
+            "artist": "kobo uniting Marsha & D.",
+            "beginner": "4",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "Music In The Rhythm",
+            "artist": "nc ft. 触電",
+            "beginner": "4",
+            "basic": "7",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "NGO",
+            "artist": "鍋嶋圭一",
+            "beginner": "6",
+            "basic": "10",
+            "difficult": "12",
+            "expert": "15",
+            "challenge": "18"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "PARANOiA ～HADES～",
+            "artist": "αTYPE-300",
+            "beginner": "7",
+            "basic": "11",
+            "difficult": "15",
+            "expert": "16",
+            "challenge": "18"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "Pluto",
+            "artist": "Black∞Hole",
+            "beginner": "6",
+            "basic": "9",
+            "difficult": "12",
+            "expert": "14",
+            "challenge": "16"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "Pluto Relinquish",
+            "artist": "2MB",
+            "beginner": "5",
+            "basic": "12",
+            "difficult": "14",
+            "expert": "17",
+            "challenge": "18"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "Poseidon",
+            "artist": "NAOKI underground",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "9",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "Raspberry♡Heart(English version)",
+            "artist": "jun feat. PAULA TERRY",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "6",
+            "expert": "9",
+            "challenge": "11"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "Saturn",
+            "artist": "Mr.Saturn",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "9",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "Shades of Grey",
+            "artist": "Fracus",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "Silver Platform - I wanna get your heart -",
+            "artist": "U1 Reincarnates w/ Leah",
+            "beginner": "4",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "SOUL CRASH",
+            "artist": "nc ft HARDCORE NATION",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "Star Gate Heaven (FUTURE LOVE Mix)",
+            "artist": "SySF. feat. Donna Burke",
+            "beginner": "4",
+            "basic": "5",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "STARS☆☆☆（Re-tuned by HΛL） - DDR EDITION -",
+            "artist": "ＴЁЯＲＡ",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "10",
+            "expert": "9",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "stealth",
+            "artist": "DAISUKE ASAKURA",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "SUNKiSS♥DROP",
+            "artist": "jun with Alison",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "12",
+            "challenge": "12"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "switch",
+            "artist": "DAISUKE ASAKURA ex.TЁЯRA",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "Trim",
+            "artist": "kobo",
+            "beginner": "5",
+            "basic": "6",
+            "difficult": "10",
+            "expert": "16",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "TRIP MACHINE PhoeniX",
+            "artist": "DE-SIRE改",
+            "beginner": "3",
+            "basic": "8",
+            "difficult": "12",
+            "expert": "15",
+            "challenge": "15"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "Trust -DanceDanceRevolution mix-",
+            "artist": "Tatsh feat. ヨーコ",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "Unreal",
+            "artist": "Black Rose Garden",
+            "beginner": "4",
+            "basic": "8",
+            "difficult": "12",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "Uranus",
+            "artist": "Tatsh SN 2 Style",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "11",
+            "challenge": "13"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "Vem brincar",
+            "artist": "Caldeira feat.Téka Penteriche",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "Venus",
+            "artist": "Tatsh+RayZY",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "11",
+            "challenge": "13"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "volcano",
+            "artist": "Yasuhiro Abe",
+            "beginner": "4",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "Votum stellarum -forest #25 DDR RMX-",
+            "artist": "iconoclasm",
+            "beginner": "1",
+            "basic": "4",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR SuperNOVA 2",
+            "title": "Why not",
+            "artist": "Darwin",
+            "beginner": "4",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "11",
+            "challenge": "-"
+        }
+    ],
+    [
+        {
+            "version": "DDR X",
+            "title": "零 - ZERO -",
+            "artist": "ＴЁЯＲＡ",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X",
+            "title": "凛として咲く花の如く",
+            "artist": "紅色リトマス",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "8",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X",
+            "title": "A Geisha's Dream",
+            "artist": "NAOKI feat. SMiLE.dk",
+            "beginner": "2",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X",
+            "title": "Beautiful Inside (Cube::Hard Mix)",
+            "artist": "NM feat. Alison Wade",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X",
+            "title": "Blue Rain",
+            "artist": "dj TAKA VS Ryu☆",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "6",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X",
+            "title": "Chance and Dice",
+            "artist": "日本少年",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "9",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X",
+            "title": "Dance Celebration",
+            "artist": "Bill Hamel feat. Kevens",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "12"
+        },
+        {
+            "version": "DDR X",
+            "title": "Dance Celebration (System 7 Remix)",
+            "artist": "Bill Hamel feat. Kevens",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X",
+            "title": "Dance Floor",
+            "artist": "neuras feat. Yurai",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "6",
+            "expert": "9",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X",
+            "title": "dazzle",
+            "artist": "kobo feat. kr:agué",
+            "beginner": "2",
+            "basic": "4",
+            "difficult": "8",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X",
+            "title": "Dream Machine",
+            "artist": "Darwin",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X",
+            "title": "Flight of the Phoenix",
+            "artist": "Jena Rose",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "9",
+            "challenge": "7"
+        },
+        {
+            "version": "DDR X",
+            "title": "Flourish",
+            "artist": "sonic-coll. feat. frances maya",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X",
+            "title": "Horatio",
+            "artist": "OR-IF-IS",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "9",
+            "expert": "15",
+            "challenge": "15"
+        },
+        {
+            "version": "DDR X",
+            "title": "Inspiration",
+            "artist": "DKC Crew",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "8",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X",
+            "title": "INTO YOUR HEART (Ruffage remix)",
+            "artist": "NAOKI feat.YASMINE",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X",
+            "title": "Lift You Up",
+            "artist": "wolli",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "6",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X",
+            "title": "LOVING YOU (Epidemik remix)",
+            "artist": "TONI LEO",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X",
+            "title": "Malacca",
+            "artist": "nc ft NRG factory",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "10",
+            "challenge": "13"
+        },
+        {
+            "version": "DDR X",
+            "title": "on the bounce",
+            "artist": "neuras",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "14",
+            "challenge": "16"
+        },
+        {
+            "version": "DDR X",
+            "title": "On The Break",
+            "artist": "Darwin",
+            "beginner": "3",
+            "basic": "8",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X",
+            "title": "Party Lights",
+            "artist": "Tommie Sunshine",
+            "beginner": "2",
+            "basic": "4",
+            "difficult": "6",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X",
+            "title": "Playa (Original Mix)",
+            "artist": "Hamel and St. Croix feat. Jules Mari",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X",
+            "title": "puzzle",
+            "artist": "日本少年",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "6",
+            "expert": "8",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X",
+            "title": "SABER WING",
+            "artist": "TAG",
+            "beginner": "5",
+            "basic": "8",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "13"
+        },
+        {
+            "version": "DDR X",
+            "title": "SABER WING (Akira Ishihara Headshot mix)",
+            "artist": "TAG",
+            "beginner": "6",
+            "basic": "10",
+            "difficult": "12",
+            "expert": "15",
+            "challenge": "17"
+        },
+        {
+            "version": "DDR X",
+            "title": "S・A・G・A",
+            "artist": "Veeton",
+            "beginner": "4",
+            "basic": "7",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X",
+            "title": "Slip Out",
+            "artist": "Harmony Machine",
+            "beginner": "1",
+            "basic": "3",
+            "difficult": "7",
+            "expert": "9",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X",
+            "title": "Slip Out (bounce in beat mix)",
+            "artist": "Harmony Machine",
+            "beginner": "2",
+            "basic": "4",
+            "difficult": "6",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X",
+            "title": "SUPER SAMURAI",
+            "artist": "jun",
+            "beginner": "4",
+            "basic": "8",
+            "difficult": "12",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X",
+            "title": "Taj He Spitz",
+            "artist": "DKC Crew",
+            "beginner": "2",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X",
+            "title": "Taj He Spitz (Tommie Sunshine's Brooklyn Fire Re-Touch)",
+            "artist": "DKC Crew",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X",
+            "title": "Take A Chance",
+            "artist": "neuras feat. GATZ",
+            "beginner": "2",
+            "basic": "3",
+            "difficult": "6",
+            "expert": "9",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X",
+            "title": "The flower in your smile",
+            "artist": "TACOS NAOMI feat.小久保裕之",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "7",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X",
+            "title": "Ticket to Bombay",
+            "artist": "Jena Rose",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X",
+            "title": "Till the lonely's gone",
+            "artist": "Z-licious",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "8",
+            "expert": "9",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X",
+            "title": "TimeHollow",
+            "artist": "Masanori Akita",
+            "beginner": "2",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "9",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X",
+            "title": "Tracers (4Beat Remix)",
+            "artist": "Ruffage & Size",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X",
+            "title": "Trigger",
+            "artist": "sonic-coll.",
+            "beginner": "5",
+            "basic": "9",
+            "difficult": "12",
+            "expert": "16",
+            "challenge": "18"
+        },
+        {
+            "version": "DDR X",
+            "title": "Übertreffen",
+            "artist": "TAKA respect for J.S.B.",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "8",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X",
+            "title": "Waiting 4 u",
+            "artist": "DDT",
+            "beginner": "4",
+            "basic": "6",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "11"
+        },
+        {
+            "version": "DDR X",
+            "title": "will",
+            "artist": "NAOKI",
+            "beginner": "1",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X",
+            "title": "30 Lives (Up-Up-Down-Dance Mix)",
+            "artist": "The Motion Sick",
+            "beginner": "2",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "8",
+            "challenge": "-"
+        }
+    ],
+    [
+        {
+            "version": "DDR X2",
+            "title": "不沈艦CANDY",
+            "artist": "Risk Junk",
+            "beginner": "2",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X2",
+            "title": "冥",
+            "artist": "Amuro vs Killer",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "16",
+            "challenge": "18"
+        },
+        {
+            "version": "DDR X2",
+            "title": "A Brighter Day",
+            "artist": "NAOKI feat. Aleisha G",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "9",
+            "challenge": "12"
+        },
+        {
+            "version": "DDR X2",
+            "title": "aftershock!!",
+            "artist": "DM Ashura",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "9",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X2",
+            "title": "All My Love",
+            "artist": "kors k feat.ЯIRE",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X2",
+            "title": "Anti-Matter",
+            "artist": "Orbit1 & Milo",
+            "beginner": "6",
+            "basic": "11",
+            "difficult": "14",
+            "expert": "17",
+            "challenge": "18"
+        },
+        {
+            "version": "DDR X2",
+            "title": "BALLAD THE FEATHERS",
+            "artist": "SHIN SOUND DESIGN feat.Naomi Koizumi",
+            "beginner": "1",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "10",
+            "challenge": "8"
+        },
+        {
+            "version": "DDR X2",
+            "title": "CG Project",
+            "artist": "Latenighters",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X2",
+            "title": "Crazy Control",
+            "artist": "D-crew with VAL TIATIA",
+            "beginner": "1",
+            "basic": "4",
+            "difficult": "6",
+            "expert": "9",
+            "challenge": "12"
+        },
+        {
+            "version": "DDR X2",
+            "title": "Dazzlin' Darlin",
+            "artist": "HHH",
+            "beginner": "2",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X2",
+            "title": "Dazzlin' Darlin-秋葉工房mix-",
+            "artist": "Remixed by DJ Command",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X2",
+            "title": "Decade",
+            "artist": "kors k Vs. dj TAKA",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X2",
+            "title": "ΔMAX",
+            "artist": "DM Ashura",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "13",
+            "expert": "17",
+            "challenge": "17"
+        },
+        {
+            "version": "DDR X2",
+            "title": "dirty digital",
+            "artist": "kors k",
+            "beginner": "1",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "11",
+            "challenge": "13"
+        },
+        {
+            "version": "DDR X2",
+            "title": "DROP",
+            "artist": "dj TAKA feat.Kanako Hoshino",
+            "beginner": "1",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X2",
+            "title": "Dummy",
+            "artist": "RAM",
+            "beginner": "2",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X2",
+            "title": "FIRE FIRE",
+            "artist": "StripE",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X2",
+            "title": "Freeze",
+            "artist": "nc ft. NRG Factory",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "12",
+            "challenge": "13"
+        },
+        {
+            "version": "DDR X2",
+            "title": "going up",
+            "artist": "colors",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "10",
+            "expert": "12",
+            "challenge": "11"
+        },
+        {
+            "version": "DDR X2",
+            "title": "GOLD RUSH",
+            "artist": "DJ YOSHITAKA-G feat.Michael a la mode",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X2",
+            "title": "Gotta Dance",
+            "artist": "NAOKI feat. Aleisha G",
+            "beginner": "2",
+            "basic": "3",
+            "difficult": "6",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X2",
+            "title": "Heatstroke",
+            "artist": "TAG feat. Angie Lee",
+            "beginner": "2",
+            "basic": "6",
+            "difficult": "8",
+            "expert": "10",
+            "challenge": "8"
+        },
+        {
+            "version": "DDR X2",
+            "title": "I'm so Happy",
+            "artist": "Ryu☆",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "8",
+            "expert": "12",
+            "challenge": "16"
+        },
+        {
+            "version": "DDR X2",
+            "title": "in love wit you",
+            "artist": "Kotaro feat. Aya",
+            "beginner": "1",
+            "basic": "3",
+            "difficult": "6",
+            "expert": "9",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X2",
+            "title": "KIMONO♥PRINCESS",
+            "artist": "jun",
+            "beginner": "5",
+            "basic": "8",
+            "difficult": "12",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X2",
+            "title": "KISS KISS KISS 秋葉工房 MIX",
+            "artist": "Remixed by DJ Command",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X2",
+            "title": "La libertad",
+            "artist": "Cheryl Horrocks",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "14"
+        },
+        {
+            "version": "DDR X2",
+            "title": "La receta",
+            "artist": "Carlos Coco Garcia",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "11",
+            "challenge": "13"
+        },
+        {
+            "version": "DDR X2",
+            "title": "Leaving…",
+            "artist": "seiya-murai meets “eimy”",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "13"
+        },
+        {
+            "version": "DDR X2",
+            "title": "Love Again",
+            "artist": "NM feat. Mr. E.",
+            "beginner": "2",
+            "basic": "4",
+            "difficult": "6",
+            "expert": "8",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X2",
+            "title": "MAX LOVE",
+            "artist": "DJ YOSHITAKA feat. 星野奏子",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "13"
+        },
+        {
+            "version": "DDR X2",
+            "title": "Melody Life",
+            "artist": "Noria",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "10",
+            "challenge": "11"
+        },
+        {
+            "version": "DDR X2",
+            "title": "New Decade",
+            "artist": "Sota F.",
+            "beginner": "4",
+            "basic": "11",
+            "difficult": "14",
+            "expert": "17",
+            "challenge": "18"
+        },
+        {
+            "version": "DDR X2",
+            "title": "oarfish",
+            "artist": "kors k",
+            "beginner": "1",
+            "basic": "2",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X2",
+            "title": "Pierce The Sky",
+            "artist": "JAKAZiD feat. K.N.",
+            "beginner": "3",
+            "basic": "8",
+            "difficult": "11",
+            "expert": "14",
+            "challenge": "16"
+        },
+        {
+            "version": "DDR X2",
+            "title": "Pluto The First",
+            "artist": "WHITE WALL",
+            "beginner": "8",
+            "basic": "10",
+            "difficult": "14",
+            "expert": "17",
+            "challenge": "18"
+        },
+        {
+            "version": "DDR X2",
+            "title": "Poseidon(kors k mix)",
+            "artist": "NAOKI underground",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "9",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X2",
+            "title": "POSSESSION",
+            "artist": "TAG underground",
+            "beginner": "7",
+            "basic": "10",
+            "difficult": "14",
+            "expert": "17",
+            "challenge": "18"
+        },
+        {
+            "version": "DDR X2",
+            "title": "real-high-SPEED",
+            "artist": "Makoto feat. SK",
+            "beginner": "2",
+            "basic": "4",
+            "difficult": "6",
+            "expert": "8",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X2",
+            "title": "resonance",
+            "artist": "NAOKI-EX",
+            "beginner": "2",
+            "basic": "4",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X2",
+            "title": "roppongi EVOLVED ver.A",
+            "artist": "TAG underground",
+            "beginner": "6",
+            "basic": "8",
+            "difficult": "11",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X2",
+            "title": "roppongi EVOLVED ver.B",
+            "artist": "TAG underground",
+            "beginner": "6",
+            "basic": "8",
+            "difficult": "11",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X2",
+            "title": "roppongi EVOLVED ver.C",
+            "artist": "TAG underground",
+            "beginner": "6",
+            "basic": "8",
+            "difficult": "11",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X2",
+            "title": "roppongi EVOLVED ver.D",
+            "artist": "TAG underground",
+            "beginner": "6",
+            "basic": "8",
+            "difficult": "11",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X2",
+            "title": "Sacred Oath",
+            "artist": "ＴЁЯＲＡ",
+            "beginner": "2",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "11",
+            "challenge": "12"
+        },
+        {
+            "version": "DDR X2",
+            "title": "sakura storm",
+            "artist": "Ryu☆",
+            "beginner": "2",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "10",
+            "challenge": "13"
+        },
+        {
+            "version": "DDR X2",
+            "title": "Sakura Sunrise",
+            "artist": "Ryu☆",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "10",
+            "expert": "14",
+            "challenge": "16"
+        },
+        {
+            "version": "DDR X2",
+            "title": "Second Heaven",
+            "artist": "Ryu☆",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "9",
+            "expert": "11",
+            "challenge": "14"
+        },
+        {
+            "version": "DDR X2",
+            "title": "She is my wife",
+            "artist": "SUPER STAR 満-MITSURU-",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X2",
+            "title": "Shine",
+            "artist": "TOMOSUKE feat. Adreana",
+            "beginner": "2",
+            "basic": "4",
+            "difficult": "6",
+            "expert": "9",
+            "challenge": "12"
+        }
+    ],
+    [
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "アルストロメリア (walk with you remix)",
+            "artist": "TAG",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "13"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "紅焔",
+            "artist": "PON",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "15"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "雫",
+            "artist": "あさき",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "隅田川夏恋歌",
+            "artist": "seiya-murai feat.ALT",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "10",
+            "expert": "12",
+            "challenge": "16"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "天上の星～黎明記～",
+            "artist": "TЁЯRA",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "ビューティフル レシート",
+            "artist": "Lucky Vacuum",
+            "beginner": "4",
+            "basic": "8",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "繚乱ヒットチャート",
+            "artist": "ギラギラメガネ団",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "恋閃繚乱",
+            "artist": "2B-Waves",
+            "beginner": "2",
+            "basic": "6",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "15"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "Amalgamation",
+            "artist": "Mystic Moon",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "15"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "BRILLIANT 2U (AKBK MIX)",
+            "artist": "NAOKI",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "Chronos",
+            "artist": "TAG",
+            "beginner": "1",
+            "basic": "4",
+            "difficult": "8",
+            "expert": "12",
+            "challenge": "15"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "COME BACK TO MY HEART",
+            "artist": "Another Infinity feat. Mayumi Morinaga",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "12",
+            "challenge": "6"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "Cosmic Hurricane",
+            "artist": "TAG",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "13",
+            "challenge": "15"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "CRAZY♥LOVE",
+            "artist": "jun",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "12",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "Diamond Dust",
+            "artist": "TAG",
+            "beginner": "1",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "10",
+            "challenge": "13"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "dreaming can make a wish come true",
+            "artist": "jun & NRG Factory feat. Anna Kaelin",
+            "beginner": "2",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "ever snow",
+            "artist": "ＴЁЯＲＡ",
+            "beginner": "2",
+            "basic": "4",
+            "difficult": "8",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "Fever",
+            "artist": "Sota F. feat. Carol Gadsden",
+            "beginner": "1",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "9",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "Find You Again",
+            "artist": "The W feat. Rita Boudreau",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "FLOWER",
+            "artist": "DJ YOSHITAKA",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "15"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "Get Back Up!",
+            "artist": "NMR runners",
+            "beginner": "2",
+            "basic": "7",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "Go For The Top",
+            "artist": "U1 overground",
+            "beginner": "6",
+            "basic": "8",
+            "difficult": "12",
+            "expert": "15",
+            "challenge": "18"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "Haunted Rhapsody",
+            "artist": "Architect ft. Jasmine Nii",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "HEART BEAT FORMULA",
+            "artist": "TAG",
+            "beginner": "4",
+            "basic": "7",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "HEARTBREAK (Sound Selektaz remix)",
+            "artist": "NAOKI feat. Becca Hossany",
+            "beginner": "1",
+            "basic": "4",
+            "difficult": "6",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "In The Air",
+            "artist": "Bill Hamel & James Rowand",
+            "beginner": "4",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "IN THE ZONE",
+            "artist": "U1 (NPD3 style) & KIDD KAZMEO",
+            "beginner": "1",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "9",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "I/O",
+            "artist": "Ryu☆",
+            "beginner": "2",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "KEEP ON MOVIN' (Y&Co. DJ BOSS remix)",
+            "artist": "N.M.R",
+            "beginner": "2",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "Let's Get Away",
+            "artist": "NAOKI feat. Brenda Burch",
+            "beginner": "2",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "9",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "London EVOLVED ver.A",
+            "artist": "TAG underground",
+            "beginner": "5",
+            "basic": "8",
+            "difficult": "11",
+            "expert": "14",
+            "challenge": "17"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "London EVOLVED ver.B",
+            "artist": "TAG underground",
+            "beginner": "5",
+            "basic": "8",
+            "difficult": "11",
+            "expert": "14",
+            "challenge": "17"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "London EVOLVED ver.C",
+            "artist": "TAG underground",
+            "beginner": "5",
+            "basic": "8",
+            "difficult": "11",
+            "expert": "14",
+            "challenge": "17"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "LOVE IS THE POWER -Re:born-",
+            "artist": "NM",
+            "beginner": "1",
+            "basic": "6",
+            "difficult": "7",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "MAGIC PARADE",
+            "artist": "Lea Drop feat. Katie Dellenbach",
+            "beginner": "1",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "Mermaid girl",
+            "artist": "Cream puff",
+            "beginner": "1",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "11",
+            "challenge": "12"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "message",
+            "artist": "dj TAKA feat.flare",
+            "beginner": "1",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "NEPHILIM DELTA",
+            "artist": "L.E.D.-G",
+            "beginner": "4",
+            "basic": "8",
+            "difficult": "12",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "New Beginning",
+            "artist": "Sota Fujimori",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "9",
+            "expert": "11",
+            "challenge": "12"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "New York EVOLVED (Type A)",
+            "artist": "NC underground",
+            "beginner": "4",
+            "basic": "9",
+            "difficult": "13",
+            "expert": "16",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "New York EVOLVED (Type B)",
+            "artist": "NC underground",
+            "beginner": "4",
+            "basic": "9",
+            "difficult": "13",
+            "expert": "16",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "New York EVOLVED (Type C)",
+            "artist": "NC underground",
+            "beginner": "4",
+            "basic": "9",
+            "difficult": "13",
+            "expert": "16",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "osaka EVOLVED -毎度、おおきに！- (TYPE1)",
+            "artist": "NAOKI underground",
+            "beginner": "9",
+            "basic": "11",
+            "difficult": "13",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "osaka EVOLVED -毎度、おおきに！- (TYPE2)",
+            "artist": "NAOKI underground",
+            "beginner": "9",
+            "basic": "11",
+            "difficult": "13",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "osaka EVOLVED -毎度、おおきに！- (TYPE3)",
+            "artist": "NAOKI underground",
+            "beginner": "9",
+            "basic": "11",
+            "difficult": "13",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "PARANOiA (kskst mix)",
+            "artist": "180",
+            "beginner": "4",
+            "basic": "9",
+            "difficult": "13",
+            "expert": "17",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "PARANOiA Revolution",
+            "artist": "CLIMAX of MAXX 360",
+            "beginner": "6",
+            "basic": "10",
+            "difficult": "14",
+            "expert": "18",
+            "challenge": "19"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "Private Eye",
+            "artist": "atomsoak ft. cerol",
+            "beginner": "2",
+            "basic": "4",
+            "difficult": "8",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "Programmed Universe",
+            "artist": "kors k",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DDR X3 VS 2ndMIX",
+            "title": "PUT YOUR FAITH IN ME (DA's Twinkly Disco Remix)",
+            "artist": "UZI-LAY",
+            "beginner": "1",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "13",
+            "challenge": "-"
+        }
+    ],
+    [
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "お米の美味しい炊き方、そしてお米を食べることによるその効果。",
+            "artist": "大日本鉄倶楽部【あさき＆９６】",
+            "beginner": "4",
+            "basic": "8",
+            "difficult": "12",
+            "expert": "16",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "からふるぱすてる",
+            "artist": "ki☆ki",
+            "beginner": "2",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "キケンな果実",
+            "artist": "達見 恵 featured by 佐野宏晃",
+            "beginner": "2",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "ずっとみつめていて (Ryu☆Remix)",
+            "artist": "DJ UTO vs. Starving Trancer feat. Mayumi Morinaga",
+            "beginner": "1",
+            "basic": "7",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "15"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "晴天Bon Voyage",
+            "artist": "TOMOSUKE × seiya-murai feat. ALT",
+            "beginner": "4",
+            "basic": "7",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "創世ノート",
+            "artist": "PON+wac",
+            "beginner": "2",
+            "basic": "8",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "ちくわパフェだよ☆CKP",
+            "artist": "日向美ビタースイーツ♪",
+            "beginner": "4",
+            "basic": "7",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "14"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "†渚の小悪魔ラヴリィ～レイディオ†",
+            "artist": "夏色ビキニのPrim",
+            "beginner": "2",
+            "basic": "6",
+            "difficult": "11",
+            "expert": "16",
+            "challenge": "9"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "虹色の花",
+            "artist": "Akhuta y OJ",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "フー・フローツ",
+            "artist": "Nanako",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "めうめうぺったんたん！！",
+            "artist": "日向美ビタースイーツ♪",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "16"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "ラキラキ",
+            "artist": "Mutsuhiko Izumi & S-C-U",
+            "beginner": "2",
+            "basic": "7",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "凛として咲く花の如く ～ひなビタ♪ edition～",
+            "artist": "日向美ビタースイーツ♪",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "ACROSS WORLD",
+            "artist": "Royz",
+            "beginner": "2",
+            "basic": "4",
+            "difficult": "8",
+            "expert": "12",
+            "challenge": "14"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "Ah La La La",
+            "artist": "Tommie Sunshine",
+            "beginner": "1",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "Air Heroes",
+            "artist": "Darwin",
+            "beginner": "3",
+            "basic": "9",
+            "difficult": "11",
+            "expert": "15",
+            "challenge": "18"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "Another Phase",
+            "artist": "TAG",
+            "beginner": "4",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "15",
+            "challenge": "16"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "Back In Your Arms",
+            "artist": "jun feat. DJ Silver vs Milo ft. Becca Hossany",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "Beautiful Dream",
+            "artist": "REDALiCE feat. anporin",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "15"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "Blew My Mind",
+            "artist": "Sota F.",
+            "beginner": "4",
+            "basic": "9",
+            "difficult": "12",
+            "expert": "16",
+            "challenge": "18"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "Bombay Bomb",
+            "artist": "Jena Rose",
+            "beginner": "2",
+            "basic": "6",
+            "difficult": "10",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "Children of the Beat",
+            "artist": "Harmony Machine",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "9",
+            "expert": "11",
+            "challenge": "12"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "Chinese Snowy Dance",
+            "artist": "Mutsuhiko Izumi",
+            "beginner": "4",
+            "basic": "7",
+            "difficult": "12",
+            "expert": "16",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "Condor",
+            "artist": "Remo-con",
+            "beginner": "2",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "13",
+            "challenge": "15"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "Confession",
+            "artist": "trance star",
+            "beginner": "2",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "12",
+            "challenge": "14"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "Desert Journey",
+            "artist": "dj TAKA",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "12",
+            "challenge": "15"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "Diamond Night",
+            "artist": "TOMOSUKE feat. Alexa Slaymaker",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "12",
+            "challenge": "14"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "Elemental Creation",
+            "artist": "dj TAKA meets DJ YOSHITAKA",
+            "beginner": "8",
+            "basic": "11",
+            "difficult": "14",
+            "expert": "17",
+            "challenge": "18"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "Empathetic",
+            "artist": "Sota÷Des",
+            "beginner": "4",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "escape",
+            "artist": "U1 & Krystal B",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "10",
+            "challenge": "13"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "Everything I Need",
+            "artist": "Brooke",
+            "beginner": "1",
+            "basic": "4",
+            "difficult": "6",
+            "expert": "9",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "Find The Way",
+            "artist": "nc ft SAK.",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "10",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "GAIA",
+            "artist": "猫叉L.E.D.Master+",
+            "beginner": "3",
+            "basic": "10",
+            "difficult": "13",
+            "expert": "16",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "heron",
+            "artist": "S-C-U",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "13"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "Hoping To Be Good",
+            "artist": "Bill Hamel & Derek James feat. James Rowand",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "JOKER",
+            "artist": "Royz",
+            "beginner": "2",
+            "basic": "4",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "14"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "Magnetic",
+            "artist": "Sota Fujimori",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "15",
+            "challenge": "17"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "Monkey Business",
+            "artist": "kors k",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "13",
+            "challenge": "16"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "New Generation",
+            "artist": "鍋嶋圭一",
+            "beginner": "4",
+            "basic": "7",
+            "difficult": "10",
+            "expert": "14",
+            "challenge": "17"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "New Gravity",
+            "artist": "Starving Trancer",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "14"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "nightbird lost wing",
+            "artist": "猫叉Master+",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "10",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "PRANA",
+            "artist": "TAG",
+            "beginner": "4",
+            "basic": "8",
+            "difficult": "11",
+            "expert": "14",
+            "challenge": "16"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "printemps",
+            "artist": "Qrispy Joybox",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "Qipchāq",
+            "artist": "world sequence",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "RЁVOLUTIФN",
+            "artist": "TЁЯRA",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "14",
+            "challenge": "17"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "Right on time (Ryu☆Remix)",
+            "artist": "Ryu☆",
+            "beginner": "2",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "14",
+            "challenge": "13"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "sola",
+            "artist": "小野秀幸",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "Somehow You Found Me",
+            "artist": "DIGI-SEQ-BAND2000",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "16"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "south",
+            "artist": "Wall5",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "10",
+            "challenge": "10"
+        },
+        {
+            "version": "DanceDanceRevolution (2013)",
+            "title": "Spanish Snowy Dance",
+            "artist": "Mutsuhiko Izumi",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "15",
+            "challenge": "17"
+        }
+    ],
+    [
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "朝色の紙飛行機",
+            "artist": "かめりあ",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "9",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "妖隠し -あやかしかくし-",
+            "artist": "DJ TOTTO feat.3L",
+            "beginner": "4",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "阿波おどり -Awaodori- やっぱり踊りはやめられない",
+            "artist": "U1 ミライダガッキ連と矢印連",
+            "beginner": "5",
+            "basic": "9",
+            "difficult": "12",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "エンドルフィン",
+            "artist": "U1 overground",
+            "beginner": "4",
+            "basic": "8",
+            "difficult": "12",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "御千手メディテーション",
+            "artist": "昇天家族",
+            "beginner": "4",
+            "basic": "8",
+            "difficult": "12",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "乙女繚乱 舞い咲き誇れ",
+            "artist": "日向美ビタースイーツ♪",
+            "beginner": "4",
+            "basic": "7",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "女言葉の消失",
+            "artist": "Sota Fujimori",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "クリムゾンゲイト",
+            "artist": "工藤吉三（ベイシスケイプ）",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "激アツ☆マジヤバ☆チアガール",
+            "artist": "日向美ビタースイーツ♪",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "幻想系世界修復少女",
+            "artist": "Last Note.",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "恋はどう？モロ◎波動OK☆方程式！！",
+            "artist": "あべにゅうぷろじぇくと feat.佐倉紗織 produced by ave;new",
+            "beginner": "4",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "漆黒のスペシャルプリンセスサンデー",
+            "artist": "日向美ビタースイーツ♪",
+            "beginner": "4",
+            "basic": "8",
+            "difficult": "11",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "灼熱Beach Side Bunny",
+            "artist": "DJ Mass MAD Izm*",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "15",
+            "challenge": "18"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "セツナトリップ",
+            "artist": "Last Note. feat. GUMI",
+            "beginner": "1",
+            "basic": "4",
+            "difficult": "10",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "地方創生☆チクワクティクス",
+            "artist": "日向美ビタースイーツ♪",
+            "beginner": "2",
+            "basic": "6",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "ちゅ～いん☆バニー",
+            "artist": "阿部靖広 feat. Strawberry Wink",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "8",
+            "expert": "10",
+            "challenge": "13"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "チョコレートスマイル",
+            "artist": "日向美ビタースイーツ♪ & ここなつ",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "デッドボヲルdeホームラン",
+            "artist": "猫叉Masterβ2",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "天空の華",
+            "artist": "S-C-U × U1 overground",
+            "beginner": "4",
+            "basic": "7",
+            "difficult": "12",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "ドーパミン",
+            "artist": "U1 overground",
+            "beginner": "7",
+            "basic": "10",
+            "difficult": "13",
+            "expert": "17",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "ドキドキ☆流星トラップガール!!",
+            "artist": "流星トラップボーイズ",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "突撃！ガラスのニーソ姫！",
+            "artist": "山本椛 (monotone)",
+            "beginner": "4",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "轟け！恋のビーンボール！！",
+            "artist": "ダイナミック野球兄弟 v.s. クロスファイヤーPrim",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "16",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "嘆きの樹",
+            "artist": "金獅子",
+            "beginner": "4",
+            "basic": "8",
+            "difficult": "12",
+            "expert": "16",
+            "challenge": "18"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "夏色DIARY -DDR mix-",
+            "artist": "猫叉王子 feat. TAG",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "10",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "爆なな☆てすとロイヤー",
+            "artist": "ARM feat. ななひら",
+            "beginner": "4",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "はなまるぴっぴはよいこだけ",
+            "artist": "A応P",
+            "beginner": "4",
+            "basic": "7",
+            "difficult": "10",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "パ→ピ→プ→Yeah!",
+            "artist": "ヒゲドライバー join. shully & Nimo",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "バンブーソード・ガール",
+            "artist": "cosMo＠暴走P",
+            "beginner": "2",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "15",
+            "challenge": "18"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "ビビットストリーム",
+            "artist": "DJ TOTTO",
+            "beginner": "4",
+            "basic": "6",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "星屑のキロク",
+            "artist": "小野秀幸",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "ホメ猫☆センセーション",
+            "artist": "P*Light feat. mow*2",
+            "beginner": "4",
+            "basic": "6",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "マインド・ゲーム",
+            "artist": "96 with メカショッチョー",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "10",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "ミライプリズム",
+            "artist": "ここなつ",
+            "beginner": "2",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "滅亡天使 † にこきゅっぴん",
+            "artist": "日向美ビタースイーツ♪",
+            "beginner": "4",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "野球の遊び方　そしてその歴史　～決定版～",
+            "artist": "あさき大監督",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "ヤマトなでなで♡かぐや姫",
+            "artist": "ロマンチック♡Prim姫",
+            "beginner": "2",
+            "basic": "6",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "14"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "ラクガキスト",
+            "artist": "cosMo＠暴走P feat.GUMI",
+            "beginner": "4",
+            "basic": "7",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "16"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "海神",
+            "artist": "兎々",
+            "beginner": "3",
+            "basic": "8",
+            "difficult": "12",
+            "expert": "16",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "Adularia",
+            "artist": "DJ TOTTO",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "10",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "ÆTHER",
+            "artist": "TAG underground",
+            "beginner": "6",
+            "basic": "9",
+            "difficult": "14",
+            "expert": "17",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "AWAKE",
+            "artist": "柊木りお featured by TAG",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "16"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "chaos eater",
+            "artist": "猫叉Master+",
+            "beginner": "6",
+            "basic": "8",
+            "difficult": "12",
+            "expert": "16",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "Cleopatrysm",
+            "artist": "ピラミッ℃",
+            "beginner": "4",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "Daily Lunch Special",
+            "artist": "Lucky Vacuum",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "10",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "Dance Partay",
+            "artist": "DKC Crew",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "11",
+            "challenge": "13"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "Destination",
+            "artist": "Sota F.",
+            "beginner": "4",
+            "basic": "9",
+            "difficult": "12",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "Din Don Dan",
+            "artist": "Ryu☆ feat.Mayumi Morinaga",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "10",
+            "challenge": "12"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "Dispersion Star",
+            "artist": "ZUKI",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "9",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDnaceRevolution (2014)",
+            "title": "Do The Evolution",
+            "artist": "TAG feat. ERi",
+            "beginner": "1",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "10",
+            "challenge": "-"
+        }
+    ],
+    [
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "天ノ弱",
+            "artist": "164",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "いーあるふぁんくらぶ",
+            "artist": "みきとP",
+            "beginner": "1",
+            "basic": "4",
+            "difficult": "8",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "イーディーエム・ジャンパーズ",
+            "artist": "かめりあ feat. ななひら",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "色は匂へど散りぬるを",
+            "artist": "幽閉サテライト feat. senya",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "エイリアンエイリアン",
+            "artist": "ナユタン星人",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "エキサイティング！！も・ちゃ・ちゃ☆",
+            "artist": "日向美ビタースイーツ♪",
+            "beginner": "4",
+            "basic": "8",
+            "difficult": "11",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "おねがいダーリン",
+            "artist": "松下",
+            "beginner": "1",
+            "basic": "3",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "朧",
+            "artist": "HHH×MM×ST",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "13"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "朧 (dj TAKA Remix)",
+            "artist": "HHH×MM×ST",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "きゅん×きゅんばっきゅん☆LOVE",
+            "artist": "松下feat.Sota & wac",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "倉野川音頭",
+            "artist": "日向美ビタースイーツ♪＆ひなちくん",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "7",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "黒髪乱れし修羅となりて～凛 edition～",
+            "artist": "日向美ビタースイーツ♪",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "10",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "君氏危うくも近うよれ",
+            "artist": "A応P",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "10",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "恋時雨",
+            "artist": "ときめきアイドル project",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "恋する☆宇宙戦争っ!!",
+            "artist": "Prim",
+            "beginner": "4",
+            "basic": "7",
+            "difficult": "12",
+            "expert": "14",
+            "challenge": "17"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "恋のパズルマジック",
+            "artist": "ときめきアイドル project Rhythmixxx",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "この青空の下で",
+            "artist": "TAG meets “eimy”",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "さよならトリップ ～夏陽 EDM edition～",
+            "artist": "東雲夏陽(from ここなつ)",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "幸せになれる隠しコマンドがあるらしい",
+            "artist": "うたたP feat. 結月ゆかり",
+            "beginner": "2",
+            "basic": "6",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "しゃかりきリレーション",
+            "artist": "ときめきアイドル project 結城秋葉",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "十二星座の聖域",
+            "artist": "Zodiac Fall",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "シュレーディンガーの猫",
+            "artist": "Cait Sith",
+            "beginner": "6",
+            "basic": "9",
+            "difficult": "12",
+            "expert": "15",
+            "challenge": "18"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "春風ブローインウィンド",
+            "artist": "TAG",
+            "beginner": "2",
+            "basic": "6",
+            "difficult": "10",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "星座が恋した瞬間を。",
+            "artist": "BEMANI Sound Team \"DJ TOTTO feat.MarL\"",
+            "beginner": "2",
+            "basic": "7",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "千年ノ理",
+            "artist": "猫叉Master",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "宇宙(ソラ)への片道切符",
+            "artist": "Musical Cosmology",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "闘え！ダダンダーンＶ",
+            "artist": "ときめきアイドル project",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "打打打打打打打打打打",
+            "artist": "ヒゲドライバー join. SELEN",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "11",
+            "expert": "13",
+            "challenge": "16"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "チルノのパーフェクトさんすう教室",
+            "artist": "ARM＋夕野ヨシミ feat. miko",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "15"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "チルノのパーフェクトさんすう教室 (EDM REMIX)",
+            "artist": "uno(IOSYS)",
+            "beginner": "1",
+            "basic": "4",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "ナイト・オブ・ナイツ",
+            "artist": "ビートまりお(COOL&CREATE)",
+            "beginner": "1",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "15",
+            "challenge": "16"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "初音ミクの消失",
+            "artist": "cosMo＠暴走P feat. 初音ミク",
+            "beginner": "3",
+            "basic": "8",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "15"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "ハッピーシンセサイザ",
+            "artist": "EasyPop",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "9",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "ハピ恋☆らぶりぃタイム!!",
+            "artist": "DJ TOTTO feat.anporin",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "ハルイチバン",
+            "artist": "ときめきアイドル project",
+            "beginner": "4",
+            "basic": "6",
+            "difficult": "7",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "向日葵サンセット",
+            "artist": "ARM・まろん (IOSYS) × ランコ・パプリカ (豚乙女)",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "風鈴花火",
+            "artist": "BEMANI Sound Team \"劇団レコード\"feat.結良まり",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "無頼ック自己ライザー",
+            "artist": "kradness",
+            "beginner": "1",
+            "basic": "4",
+            "difficult": "8",
+            "expert": "13",
+            "challenge": "15"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "プレインエイジア -PHQ remix-",
+            "artist": "PHQUASE",
+            "beginner": "5",
+            "basic": "7",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "ベィスドロップ・フリークス",
+            "artist": "かめりあ feat. ななひら",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "魔法のたまご ～心菜 ELECTRO POP edition～",
+            "artist": "東雲心菜(from ここなつ)",
+            "beginner": "3",
+            "basic": "4",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "魔理沙は大変なものを盗んでいきました",
+            "artist": "ARM(IOSYS)",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "ルミナスデイズ",
+            "artist": "ここなつ",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "恋愛観測",
+            "artist": "NU-KO",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "10",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "ロールプレイングゲーム",
+            "artist": "そらまふうらさか",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "10",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "炉心融解",
+            "artist": "iroha",
+            "beginner": "2",
+            "basic": "6",
+            "difficult": "10",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "ロストワンの号哭",
+            "artist": "Neru",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "10",
+            "expert": "12",
+            "challenge": "15"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "ロンロンへ　ライライライ！",
+            "artist": "ここなつ",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "10",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "ACE FOR ACES",
+            "artist": "TAG×U1",
+            "beginner": "4",
+            "basic": "7",
+            "difficult": "13",
+            "expert": "15",
+            "challenge": "18"
+        },
+        {
+            "version": "DanceDanceRevolution A",
+            "title": "ALGORITHM",
+            "artist": "SOUND HOLIC feat. Nana Takahashi",
+            "beginner": "5",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "13",
+            "challenge": "-"
+        }
+    ],
+    [
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "おーまい！らぶりー！すうぃーてぃ！だーりん！",
+            "artist": "BEMANI Sound Team \"PON\" feat.NU-KO",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "12",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "革命パッショネイト",
+            "artist": "日向美ビタースイーツ♪",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "最終鬼畜妹フランドール・Ｓ",
+            "artist": "ビートまりお(COOL&CREATE)",
+            "beginner": "4",
+            "basic": "9",
+            "difficult": "13",
+            "expert": "16",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "最小三倍完全数",
+            "artist": "DJ TECHNORCH",
+            "beginner": "5",
+            "basic": "11",
+            "difficult": "14",
+            "expert": "17",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "スイーツはとまらない♪",
+            "artist": "日向美ビタースイーツ♪",
+            "beginner": "2",
+            "basic": "4",
+            "difficult": "9",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "どきドキ バレンタイン",
+            "artist": "ひまわり＊パンチ",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "ナイト・オブ・ナイツ (Ryu☆Remix)",
+            "artist": "Ryu☆",
+            "beginner": "4",
+            "basic": "8",
+            "difficult": "13",
+            "expert": "16",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "熱情のサパデアード",
+            "artist": "日向美ビタースイーツ♪",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "9",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "び",
+            "artist": "立秋 feat.ちょこ",
+            "beginner": "5",
+            "basic": "9",
+            "difficult": "12",
+            "expert": "17",
+            "challenge": "18"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "ヒカリユリイカ",
+            "artist": "ここなつ",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "ベビーステップ",
+            "artist": "ここなつ",
+            "beginner": "4",
+            "basic": "7",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "ホーンテッド★メイドランチ",
+            "artist": "日向美ビタースイーツ♪",
+            "beginner": "4",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "15",
+            "challenge": "17"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "星屑の夜果て",
+            "artist": "BEMANI Sound Team \"HuΣeR × MarL × SYUNN\"",
+            "beginner": "4",
+            "basic": "8",
+            "difficult": "12",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "未完成ノ蒸氣驅動乙女 (DDR Edition)",
+            "artist": "U1 overground",
+            "beginner": "5",
+            "basic": "9",
+            "difficult": "13",
+            "expert": "17",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "ミッドナイト☆WAR",
+            "artist": "いちか",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "未来（ダ）FUTURE",
+            "artist": "seiya-murai",
+            "beginner": "2",
+            "basic": "7",
+            "difficult": "10",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "ラブキラ☆スプラッシュ",
+            "artist": "BEMANI Sound Team \"Sota F.\" feat.いちか",
+            "beginner": "2",
+            "basic": "6",
+            "difficult": "10",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "ランカーキラーガール",
+            "artist": "中島由貴 × いちか",
+            "beginner": "4",
+            "basic": "8",
+            "difficult": "13",
+            "expert": "17",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "Ace out",
+            "artist": "BEMANI Sound Team \"SYUNN\"",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "9",
+            "expert": "14",
+            "challenge": "14"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "Afterimage d'automne",
+            "artist": "BEMANI Sound Team \"猫叉劇団\"",
+            "beginner": "4",
+            "basic": "8",
+            "difficult": "11",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "Alone",
+            "artist": "Marshmello",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "ALPACORE",
+            "artist": "Cranky",
+            "beginner": "4",
+            "basic": "9",
+            "difficult": "12",
+            "expert": "16",
+            "challenge": "17"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "Avenger",
+            "artist": "USAO",
+            "beginner": "4",
+            "basic": "10",
+            "difficult": "14",
+            "expert": "17",
+            "challenge": "18"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "BLACK JACKAL",
+            "artist": "Akira Complex",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "BLSTR",
+            "artist": "Ujico*",
+            "beginner": "3",
+            "basic": "9",
+            "difficult": "12",
+            "expert": "16",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "Bounce Trippy",
+            "artist": "Dustvoxx",
+            "beginner": "4",
+            "basic": "8",
+            "difficult": "11",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "BUTTERFLY (20th Anniversary Mix)",
+            "artist": "BEMANI Sound Team \"Sota F.\"",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "CARTOON HEROES (20th Anniversary Mix)",
+            "artist": "nc ft.Jasmine And DARIO TODA",
+            "beginner": "4",
+            "basic": "9",
+            "difficult": "14",
+            "expert": "16",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "Clarity",
+            "artist": "Zedd feat. Foxes",
+            "beginner": "2",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "9",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "Crazy Shuffle",
+            "artist": "Yooh",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "CROSS",
+            "artist": "TeddyLoid",
+            "beginner": "1",
+            "basic": "5",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "CyberConnect",
+            "artist": "Blacklolita",
+            "beginner": "2",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "15",
+            "challenge": "17"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "Dead Heat",
+            "artist": "Maozon",
+            "beginner": "4",
+            "basic": "6",
+            "difficult": "10",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "DIGITAL LUV",
+            "artist": "ハレトキドキ",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "District of the Shadows",
+            "artist": "DJ Noriken",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "12",
+            "expert": "16",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "DOWNER & UPPER",
+            "artist": "BEMANI Sound Team \"DJ TOTTO\"",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "13",
+            "challenge": "10"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "Drop The Bounce",
+            "artist": "Hommarju",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "10",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "ENDLESS",
+            "artist": "FN2(Eurobeat Union)",
+            "beginner": "2",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "F4SH10N",
+            "artist": "aran",
+            "beginner": "2",
+            "basic": "6",
+            "difficult": "10",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "Firestorm",
+            "artist": "ETIA.",
+            "beginner": "5",
+            "basic": "8",
+            "difficult": "13",
+            "expert": "16",
+            "challenge": "16"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "Get On Da Floor",
+            "artist": "DJ Shimamura",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "Give Me",
+            "artist": "Relect",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "12",
+            "expert": "15",
+            "challenge": "16"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "Glitch Angel",
+            "artist": "lapix",
+            "beginner": "5",
+            "basic": "8",
+            "difficult": "13",
+            "expert": "17",
+            "challenge": "18"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "Golden Arrow",
+            "artist": "Zekk",
+            "beginner": "4",
+            "basic": "8",
+            "difficult": "12",
+            "expert": "16",
+            "challenge": "17"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "HAVE YOU NEVER BEEN MELLOW (20th Anniversary Mix)",
+            "artist": "nc ft. Kanae Jasmine Asaba",
+            "beginner": "2",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "Helios",
+            "artist": "xac",
+            "beginner": "4",
+            "basic": "8",
+            "difficult": "12",
+            "expert": "16",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "Hunny Bunny",
+            "artist": "U1 overground",
+            "beginner": "2",
+            "basic": "6",
+            "difficult": "10",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "I Love You",
+            "artist": "O/iviA",
+            "beginner": "4",
+            "basic": "8",
+            "difficult": "13",
+            "expert": "16",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "I'm an Albatraoz",
+            "artist": "AronChupa",
+            "beginner": "1",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20",
+            "title": "IRON HEART",
+            "artist": "BUNNY",
+            "beginner": "2",
+            "basic": "7",
+            "difficult": "10",
+            "expert": "14",
+            "challenge": "-"
+        }
+    ],
+    [
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "蒼が消えるとき",
+            "artist": "movies (moimoi×Xceon×Dai.)",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "アリスサイド・キャスリング",
+            "artist": "メリー・バッド・メルヘン",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "イノセントバイブル",
+            "artist": "Vanitas Lacrimosa",
+            "beginner": "1",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "ウソツキ横丁は雨模様",
+            "artist": "夜叉姫神楽",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "梅雪夜",
+            "artist": "Qrispy Joybox feat. mao",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "御伽噺に幕切れを",
+            "artist": "夜叉姫神楽",
+            "beginner": "4",
+            "basic": "7",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "彼方のリフレシア",
+            "artist": "DJ TOTTO feat.Annabel & 日山尚",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "10",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "狂水一華",
+            "artist": "BEMANI Sound Team \"HuΣeR Vs. SYUNN\" feat.いちか",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "共犯ヘヴンズコード",
+            "artist": "D-Evoke（与那嶺雅人/小日向翔）",
+            "beginner": "2",
+            "basic": "4",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "恋",
+            "artist": "星野 源",
+            "beginner": "1",
+            "basic": "3",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "ここからよろしく大作戦143",
+            "artist": "BEMANI Sound Team \"あさき隊\"",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "サイカ",
+            "artist": "フレデリック",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "逆さま♥シンデレラパレード",
+            "artist": "メリー・バッド・メルヘン",
+            "beginner": "2",
+            "basic": "7",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "雑草魂なめんなよ！",
+            "artist": "Taiki",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "至上のラトゥーリア",
+            "artist": "Vanitas Lacrimosa",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "思想犯",
+            "artist": "ヨルシカ",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "灼熱 Pt.2 Long Train Running",
+            "artist": "DJ Mass MAD Izm*",
+            "beginner": "3",
+            "basic": "8",
+            "difficult": "13",
+            "expert": "16",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "シル・ヴ・プレジデント",
+            "artist": "P丸様。",
+            "beginner": "1",
+            "basic": "4",
+            "difficult": "8",
+            "expert": "12",
+            "challenge": "14"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "スカイクラッドの観測者",
+            "artist": "いとうかなこ",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "世界の果てに約束の凱歌を -DDR Extended Megamix-",
+            "artist": "BEMANI Sound Team \"TAG\"",
+            "beginner": "5",
+            "basic": "10",
+            "difficult": "14",
+            "expert": "17",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "追憶のアリア",
+            "artist": "Blanc Bunny Bandit",
+            "beginner": "2",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "テレキャスタービーボーイ",
+            "artist": "すりぃ feat.鏡音レン",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "東京神話",
+            "artist": "DJ TECHNORCH feat.宇宙★海月 vs BEMANI Sound Team \"U1-ASAMi\"",
+            "beginner": "5",
+            "basic": "9",
+            "difficult": "13",
+            "expert": "17",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "なだめスかし Negotiation",
+            "artist": "鹿乃と宇崎ちゃん",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "9",
+            "expert": "11",
+            "challenge": "16"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "ノープラン・デイズ",
+            "artist": "TORIENA",
+            "beginner": "3",
+            "basic": "9",
+            "difficult": "12",
+            "expert": "16",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "ノルエピネフリン",
+            "artist": "BEMANI Sound Team \"U1 overground\"",
+            "beginner": "2",
+            "basic": "6",
+            "difficult": "11",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "花は折りたし梢は高し",
+            "artist": "夜叉姫神楽",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "パピポペピプペパ",
+            "artist": "P*Light",
+            "beginner": "4",
+            "basic": "6",
+            "difficult": "11",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "ハラショー！おにぎりサーカス団☆",
+            "artist": "Blanc Bunny Bandit",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "春を告げる",
+            "artist": "yama",
+            "beginner": "2",
+            "basic": "4",
+            "difficult": "8",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "叛逆のディスパレート",
+            "artist": "Vanitas Lacrimosa",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "ほしのつくりかた",
+            "artist": "D-wacrew",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "10",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "モノクロモーメント",
+            "artist": "BEMANI Sound Team \"TAG\"",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "勇猛無比",
+            "artist": "Upper Cape Project",
+            "beginner": "4",
+            "basic": "8",
+            "difficult": "11",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "ロキ(w/緒方恵美)",
+            "artist": "神田沙也加",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "私をディスコに連れてって TOKYO",
+            "artist": "U1 vs U1 overground",
+            "beginner": "3",
+            "basic": "9",
+            "difficult": "11",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "actualization of self (weaponized)",
+            "artist": "kiraku",
+            "beginner": "4",
+            "basic": "9",
+            "difficult": "13",
+            "expert": "16",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "Aftermath",
+            "artist": "BEMANI Sound Team \"猫叉Master & あさき & Yvya\"",
+            "beginner": "5",
+            "basic": "9",
+            "difficult": "12",
+            "expert": "16",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "AI",
+            "artist": "BEMANI Sound Team \"Sota F.\"",
+            "beginner": "5",
+            "basic": "9",
+            "difficult": "12",
+            "expert": "16",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "ANTI ANTHEM",
+            "artist": "BEMANI Sound Team \"ZAQUVA\"",
+            "beginner": "5",
+            "basic": "9",
+            "difficult": "13",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "Bang Pad(Werk Mix)",
+            "artist": "Oyubi",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "Better Than Me",
+            "artist": "BEMANI Sound Team \"Sota F.\"",
+            "beginner": "4",
+            "basic": "8",
+            "difficult": "12",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "BITTER CHOCOLATE STRIKER",
+            "artist": "L.E.D.-G",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "10",
+            "expert": "14",
+            "challenge": "17"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "BLAKE",
+            "artist": "A.T.park",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "BRIDAL FESTIVAL !!!",
+            "artist": "S.S.D. with ななっち",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "B4U (The Acolyte mix)",
+            "artist": "J-RAVERS",
+            "beginner": "2",
+            "basic": "4",
+            "difficult": "9",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "City Never Sleeps",
+            "artist": "Dirty Androids",
+            "beginner": "4",
+            "basic": "7",
+            "difficult": "12",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "Come Back To Me",
+            "artist": "MK&Kanae Asaba",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "CONNECT-",
+            "artist": "BEMANI Sound Team \"Sota Fujimori\"",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A20 PLUS",
+            "title": "Crazy Hot",
+            "artist": "NJK Record feat.nachi",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        }
+    ],
+    [
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "アユミ☆マジカルショータイム",
+            "artist": "キノシタ feat.音街ウナ",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "9",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "一途",
+            "artist": "",
+            "beginner": "2",
+            "basic": "6",
+            "difficult": "12",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "↑↑↓↓←→←→BA",
+            "artist": "meiyo",
+            "beginner": "4",
+            "basic": "6",
+            "difficult": "11",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "ウサテイ",
+            "artist": "ビートまりお(COOL&CREATE)",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "14",
+            "challenge": "17"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "患部で止まってすぐ溶ける～狂気の優曇華院",
+            "artist": "ARM(IOSYS)",
+            "beginner": "3",
+            "basic": "8",
+            "difficult": "11",
+            "expert": "14",
+            "challenge": "17"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "鏡花水月楼 (DDR EDITION)",
+            "artist": "ＴЁЯＲＡ feat.宇宙戦隊NOIZ",
+            "beginner": "1",
+            "basic": "6",
+            "difficult": "11",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "サヨナラ・ヘヴン",
+            "artist": "猫叉Master",
+            "beginner": "1",
+            "basic": "3",
+            "difficult": "9",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "ナナホシ",
+            "artist": "S-C-U",
+            "beginner": "2",
+            "basic": "6",
+            "difficult": "11",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "ポジティブ☆ダンスタイム",
+            "artist": "キノシタ feat.音街ウナ・鏡音リン",
+            "beginner": "2",
+            "basic": "4",
+            "difficult": "8",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "ポッピンキャンディ☆フィーバー！",
+            "artist": "キノシタ feat.音街ウナ・鏡音リン",
+            "beginner": "2",
+            "basic": "4",
+            "difficult": "10",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "ミックスナッツ",
+            "artist": "",
+            "beginner": "1",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "ヤサイマシ☆ニンニクアブラオオメ",
+            "artist": "azuma feat. ななひら",
+            "beginner": "2",
+            "basic": "6",
+            "difficult": "12",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "酔いどれ知らず",
+            "artist": "Kanaria",
+            "beginner": "1",
+            "basic": "3",
+            "difficult": "9",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "量子の海のリントヴルム",
+            "artist": "黒猫ダンジョン",
+            "beginner": "4",
+            "basic": "10",
+            "difficult": "14",
+            "expert": "17",
+            "challenge": "18"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "ALBIDA",
+            "artist": "DJ YOSHITAKA",
+            "beginner": "3",
+            "basic": "9",
+            "difficult": "13",
+            "expert": "16",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "Anthurium",
+            "artist": "BlackY feat. Risa Yuzuki",
+            "beginner": "4",
+            "basic": "6",
+            "difficult": "10",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "Are U Ready",
+            "artist": "Shouya Namai",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "Awakening Wings",
+            "artist": "伊達朱里紗",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "10",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "Battle Against a True Hero",
+            "artist": "Toby Fox",
+            "beginner": "2",
+            "basic": "7",
+            "difficult": "12",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "Beluga",
+            "artist": "BEMANI Sound Team \"S-C-U\"",
+            "beginner": "1",
+            "basic": "4",
+            "difficult": "7",
+            "expert": "11",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "Black Emperor",
+            "artist": "黒魔",
+            "beginner": "5",
+            "basic": "9",
+            "difficult": "14",
+            "expert": "17",
+            "challenge": "18"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "Closer to my Heart (jun remix)",
+            "artist": "NM feat.Heather Elmer",
+            "beginner": "2",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "Concertino in Blue",
+            "artist": "佐々木博史",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "12",
+            "expert": "16",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "concon",
+            "artist": "S-C-U",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "12",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "Dance Phenomena",
+            "artist": "BEMANI Sound Team \"Captain KING\"",
+            "beginner": "3",
+            "basic": "5",
+            "difficult": "10",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "Death by Glamour",
+            "artist": "Toby Fox",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "Deep tenDon Reflex",
+            "artist": "BEMANI Sound Team \"Coyaan\"",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "15",
+            "challenge": "17"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "DOUBLE TORNARD",
+            "artist": "evo-X",
+            "beginner": "4",
+            "basic": "7",
+            "difficult": "12",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "♡Drive My Heart♡",
+            "artist": "CHEAP CREAM",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "Easy Peasy",
+            "artist": "BEMANI Sound Team \"SYUNN\"",
+            "beginner": "1",
+            "basic": "4",
+            "difficult": "10",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "Environ [De-SYNC] (feat. lythe)",
+            "artist": "DV-i",
+            "beginner": "4",
+            "basic": "9",
+            "difficult": "12",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "Finale",
+            "artist": "Toby Fox",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "8",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "Fleur",
+            "artist": "BEMANI Sound Team \"Akhuta Works\"",
+            "beginner": "4",
+            "basic": "9",
+            "difficult": "12",
+            "expert": "16",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "GERBERA",
+            "artist": "BEMANI Sound Team \"TAG\"",
+            "beginner": "4",
+            "basic": "9",
+            "difficult": "14",
+            "expert": "16",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "Get Your Wish",
+            "artist": "WATARU",
+            "beginner": "3",
+            "basic": "6",
+            "difficult": "9",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "glacia",
+            "artist": "DJ TOTTO",
+            "beginner": "4",
+            "basic": "9",
+            "difficult": "14",
+            "expert": "16",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "Glitter Flatter Scatter",
+            "artist": "Project B-",
+            "beginner": "6",
+            "basic": "9",
+            "difficult": "14",
+            "expert": "17",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "Go Down",
+            "artist": "KO3",
+            "beginner": "1",
+            "basic": "4",
+            "difficult": "10",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "GRADIUS REMIX（↑↑↓↓←→←→BA Ver.)",
+            "artist": "TOKYO MACHINE",
+            "beginner": "2",
+            "basic": "6",
+            "difficult": "8",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "I WANT YOUR LOVE (Darwin remix)",
+            "artist": "GAV",
+            "beginner": "2",
+            "basic": "4",
+            "difficult": "9",
+            "expert": "13",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "KING",
+            "artist": "Kanaria",
+            "beginner": "1",
+            "basic": "7",
+            "difficult": "13",
+            "expert": "16",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "Last Summer",
+            "artist": "BEMANI Sound Team \"Monolith vs. Nautilus\"",
+            "beginner": "2",
+            "basic": "5",
+            "difficult": "10",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "Let Me Know",
+            "artist": "ZEOL",
+            "beginner": "4",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "15",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "Let's DANCE aROUND!!",
+            "artist": "kors k feat.Jaejun by NuevoStudio",
+            "beginner": "3",
+            "basic": "7",
+            "difficult": "11",
+            "expert": "14",
+            "challenge": "17"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "Like A Star",
+            "artist": "nora2r feat. 和鳴るせ",
+            "beginner": "4",
+            "basic": "7",
+            "difficult": "12",
+            "expert": "14",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "Look at the Sky",
+            "artist": "Porter Robinson",
+            "beginner": "1",
+            "basic": "3",
+            "difficult": "6",
+            "expert": "10",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "Megalara Garuda",
+            "artist": "SYUNN",
+            "beginner": "5",
+            "basic": "9",
+            "difficult": "16",
+            "expert": "17",
+            "challenge": "18"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "MEGALOVANIA",
+            "artist": "Toby Fox",
+            "beginner": "4",
+            "basic": "9",
+            "difficult": "12",
+            "expert": "16",
+            "challenge": "18"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "Mess With My Emotions",
+            "artist": "Latenighter",
+            "beginner": "1",
+            "basic": "3",
+            "difficult": "9",
+            "expert": "12",
+            "challenge": "-"
+        },
+        {
+            "version": "DanceDanceRevolution A3",
+            "title": "Musician",
+            "artist": "Porter Robinson",
+            "beginner": "1",
+            "basic": "3",
+            "difficult": "8",
+            "expert": "12",
+            "challenge": "-"
+        }
+    ]
+]
